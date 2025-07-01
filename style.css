@@ -1,0 +1,16 @@
+.myfoot {
+  background-color: #f8f9fa; /* Black background */
+  color: black; /* White text */
+  text-align: center; /* Center text */
+  padding: 1rem 0; /* Top & bottom padding */
+  width: 100%; /* Full width */
+  font-size: 1rem; /* Font size */
+  position: static; /* Sticks to viewport */
+  bottom: 0; /* Stick to bottom */
+  left: 0; /* Align left */
+  z-index: 999; /* Stay on top of other elements */
+}
+
+.myback {
+  background-color: gray;
+}
